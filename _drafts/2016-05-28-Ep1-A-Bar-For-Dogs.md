@@ -2,7 +2,7 @@
 layout: post
 title: Ep1 - A Bar For Dogs w/ Murphy McLachlan
 description: "Episode 1 of the podcast, Murphy McLachlan joins to discuss a bar for dogs"
-tags: [episodes]
+tags: [episodes, Murphy McLachlan]
 categories: [episodes]
 image:
   feature: dogbar1.jpg
