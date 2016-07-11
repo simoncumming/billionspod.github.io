@@ -18,6 +18,6 @@ Murphy McLachlan & I create a bar for dogs, Kate Dehnert & I devise a truly evil
 
 The podcast should launch in the next few weeks, but for now follow us on social media to get updates as soon as the first episode hits!
 
-+ [twitter](twitter.com/billionspod)
-- [instagram](instagram.com/billionspod)
-* [facebook](https://www.facebook.com/Lets-Make-Billions-1407636002876693/)
++ [Twitter](http://twitter.com/billionspod)
+- [Instagram](http://instagram.com/billionspod)
+* [Facebook](https://www.facebook.com/Lets-Make-Billions-1407636002876693/)
