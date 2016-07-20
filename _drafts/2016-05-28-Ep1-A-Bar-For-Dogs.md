@@ -22,8 +22,8 @@ Can dogs drink alcohol? Let's find out!
 
 You can find more stuff from Murphy here:
 
-+ [murphymclachlan.com](www.murphymclachlan.com)
++ [murphymclachlan.com](http://www.murphymclachlan.com)
 
-+ [Twitter](twitter.com/murphymclachlan)
++ [Twitter](http://twitter.com/murphymclachlan)
 
 + [Beer Eye With Your Mates Guys Podcast (iTunes)](https://itunes.apple.com/au/podcast/beer-eye-with-your-mates-guys/id1017716252?mt=2)
