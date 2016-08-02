@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Ep4 - Jim's Gym for Jims: a Gym for Life Skills"
+description: "Episode 4, is back to create a gym for practical skills"
+tags: [episodes, Murphy McLachlan]
+categories: [episodes]
+image:
+  feature: jimsgym.png
+  credit:
+creditlink:
+comments: yes
+share: yes
+---
+
+Episode 4!
+
+**Murphy McLachlan** is back to follow up on our bar for dogs and create a gym for practical skills.
+
+
+####You can find more stuff from Murphy here:
+
++ [murphymclachlan.com](http://www.murphymclachlan.com)
+
++ [Twitter](http://twitter.com/murphymclachlan)
+
++ [Beer Eye With Your Mates Guys Podcast (iTunes)](https://itunes.apple.com/au/podcast/beer-eye-with-your-mates-guys/id1017716252?mt=2)
