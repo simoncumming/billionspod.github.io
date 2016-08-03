@@ -14,7 +14,7 @@ This is it!
 
 Launch date is set.
 
-####Let's Make Billions launches August 15!
+#### Let's Make Billions launches August 15!
 
 Put it in your bloody calendars!
 
