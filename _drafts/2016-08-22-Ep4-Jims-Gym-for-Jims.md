@@ -21,6 +21,6 @@ Episode 4!
 
 + [murphymclachlan.com](http://www.murphymclachlan.com)
 
-+ [Twitter](http://twitter.com/murphymclachlan)
++ [Twitter - @murphymclachlan](http://twitter.com/murphymclachlan)
 
 + [Beer Eye With Your Mates Guys Podcast (iTunes)](https://itunes.apple.com/au/podcast/beer-eye-with-your-mates-guys/id1017716252?mt=2)
