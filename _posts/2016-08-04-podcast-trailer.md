@@ -20,7 +20,7 @@ Listen here or on [iTunes](https://itunes.apple.com/au/podcast/lets-make-billion
 
 Or using the following URL: http://letsmakebillions.libsyn.com/rss
 
-####Follow Let's Make Billions on social media!
+#### Follow Let's Make Billions on social media!
 
 + [Twitter](http://twitter.com/billionspod)
 - [Instagram](http://instagram.com/billionspod)
