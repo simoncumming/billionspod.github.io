@@ -14,8 +14,10 @@ share: yes
 
 Episode 3!
 
-**Tessa Ryan** comes aboard to start an ethically questionable babysitting/team building service.
+Comedian **Tessa Ryan** comes aboard to start an ethically questionable babysitting/team building service.
 
-####Find more from Tessa here:
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4566208/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+#### Find more from Tessa here:
 
 + [Twitter - @TheTRyanosaurus](https://twitter.com/TheTRyanosaurus)

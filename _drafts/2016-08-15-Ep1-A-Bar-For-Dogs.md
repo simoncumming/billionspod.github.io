@@ -18,9 +18,9 @@ Great mate **Murphy McLachlan** host of **Beer Eye With Your Mates Guys** joins 
 
 Can dogs drink alcohol? Let's find out!
 
-<iframe width="100%" height="200" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/243609858&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4566183/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
-####You can find more stuff from Murphy here:
+#### You can find more stuff from Murphy here:
 
 + [murphymclachlan.com](http://www.murphymclachlan.com)
 

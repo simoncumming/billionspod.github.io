@@ -20,7 +20,9 @@ We talk profiles, promotions and monopolies. It gets truly evil.
 
 Check it out!
 
-####You can find more stuff from Kate here:
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/4566197/height/90/width/640/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/backward/no-cache/true/render-playlist/no/custom-color/87A93A/" height="90" width="640" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+#### You can find more stuff from Kate here:
 
 + [Twitter - @katedehnert](https://twitter.com/katedehnert)
 
