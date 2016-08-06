@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launch date brought forward to Monday 8th of August
-description: "Launch Date Brought Forward to Monday 8th of August!"
+description: "Let's Make Billions is now launching a week early!"
 tags: [podcast updates]
 image:
   feature: lightsbokeh.jpg
